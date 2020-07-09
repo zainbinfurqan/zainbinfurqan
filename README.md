@@ -1,6 +1,13 @@
 ### Hi there i am zain ahmed full stack developer 👋
-### I work as Frontend/Backend developer
-## I have experties  in React library 
+#### Im working as Front/Back End Developer with different framworks and library.
+#### Hand on experience with React library (UI development, API integration, Redux store managment, data manupulation).
+#### Hand on experience with Mobile Application development in React Native (UI development, API integration, Redux store managment, data manupulation),
+#### Hand on experience with Node js , in BackEnd development (Rest API's, backend logics, applications architecture, critical thinking of problem solving for application business logics.
+#### Hand on experience with DataBase MongoDB (application databse structure, relational database structure, business logic for database architecture).
+
+# Projects
+#### 1. Work on social media website in a firm using tecnologies (Next,Node.js,MongoDB) 
+####  Responsibilities : Work on Front End UI development, Application store managment, Redux application architecture managment, Data maupulation, API's integration, Work on backend development with Node.js develop API's for application, business logics, data transfer methodology, Work on Database using MongoDB to develop application structure business logic for database architecture
 <!--
 **zainbinfurqan/zainbinfurqan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
