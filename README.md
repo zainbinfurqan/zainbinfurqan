@@ -1,5 +1,6 @@
 ### Hi there i am zain ahmed full stack developer 👋
-
+### I work as Frontend/Backend developer
+## I have experties  in React library 
 <!--
 **zainbinfurqan/zainbinfurqan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
