@@ -8,13 +8,15 @@
 #### i also have a youtube channel where i post some Software Development Stuff 
 https://www.youtube.com/channel/UCkaoWtBz6ioLbNwRzIco5Yg
 
+![](https://raw.githubusercontent.com/vishal-chandra/Stickman-Animation/master/Animation/res/help/bodyMove.gif)
+
 # Projects
 #### 1. Work on social media website in a firm using tecnologies (Next,Node.js,MongoDB) 
 ####  Responsibilities : Work on Front End UI development, Application store managment, Redux application architecture managment, Data maupulation, API's integration, Work on backend development with Node.js develop API's for application, business logics, data transfer methodology, Work on Database using MongoDB to develop application structure business logic for database architecture
 <!--
 **zainbinfurqan/zainbinfurqan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://raw.githubusercontent.com/vishal-chandra/Stickman-Animation/master/Animation/res/help/bodyMove.gif
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
