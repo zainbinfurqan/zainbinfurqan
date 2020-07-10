@@ -14,7 +14,7 @@ https://www.youtube.com/channel/UCkaoWtBz6ioLbNwRzIco5Yg
 <!--
 **zainbinfurqan/zainbinfurqan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://github.com/vishal-chandra/Stickman-Animation/blob/master/Animation/res/help/bodyMove.gif)
+![](https://raw.githubusercontent.com/vishal-chandra/Stickman-Animation/master/Animation/res/help/bodyMove.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
