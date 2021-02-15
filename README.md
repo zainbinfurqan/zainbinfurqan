@@ -1,4 +1,4 @@
-### Hi there i am zain ahmed full stack developer 👋
+### Hi there i am zain ahmed MERN developer 👋
 #### Im working as Front/Back End Developer with different framworks and library.
 #### Hand on experience with React library (UI development, API integration, Redux store managment, data manupulation).
 #### Hand on experience with Mobile Application development in React Native (UI development, API integration, Redux store managment, data manupulation),
