@@ -23,9 +23,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></code>
-<code><img height="20" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnL6RSvqGaQKadF4Q5q2rnCpSrFH1atFw9eVYNarpROZUrqbbtuducsFRacmVkd28DKWw&usqp=CAU"></code>
+<code><img height="20" src="https://img.flaticon.com/icons/png/512/919/919825.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDp9lZQ7-8tsYUfeoiwhSMxqKuJjH_zFTCTiTv4qo0eVbB3NNJ09vSPRIk1KOF6qz3IwE&usqp=CAU"></code>
 
 <!--
 **zainbinfurqan/zainbinfurqan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
