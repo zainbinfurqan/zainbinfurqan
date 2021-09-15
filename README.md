@@ -1,16 +1,22 @@
-### Hi there i am Zain Ahmed youtuber/developer/adventures  👋
+### Hi there i am Zain Ahmed Software Egineer  👋
+
+### I have create some cool stuff using different Libraries|Framworks|Technologies you can check them in different repos.
+
+# Differernt technologies|concepts on which i worked
+
+
 
 <a href="https://mobile.twitter.com/zainahmed241995">
-  <img align="left" alt="Raheel Siddiqui | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> 
+  <img align="left" alt="Zain Ahmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> 
 </a>
 <a href="https://www.linkedin.com/in/zain-ahmed-231349132/">
-  <img align="left" alt="Raheel's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Zain's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/zainbinfurqan/">
-  <img align="left" alt="Raheel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Zain's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/zain.ahmed.75491">
-  <img align="left" alt="Raheel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Zain's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br>
