@@ -10,6 +10,8 @@
 ## Cashless: Pay with barcode or from app/web wallet
 ## Firebase: Realtime chat applications and integration in React|React Native
 
+### I also create/write  content/blogs/articles on different platforms like 
+
 
 <a href="https://mobile.twitter.com/zainahmed241995">
   <img align="left" alt="Zain Ahmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> 
