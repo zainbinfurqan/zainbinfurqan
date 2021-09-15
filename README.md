@@ -4,6 +4,11 @@
 
 # Differernt technologies|concepts on which i worked
 
+## Agora: Use to ceate live straming application integrate in React FrontEnd.
+## Stripe: Use stripe as a payment getway 
+## Paypal: Use Paypal as a payment getway
+## Cashless: Pay with barcode or from app/web wallet
+
 
 
 <a href="https://mobile.twitter.com/zainahmed241995">
