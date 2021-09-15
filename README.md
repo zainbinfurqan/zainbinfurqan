@@ -8,7 +8,7 @@
 ## Stripe: Use stripe as a payment getway 
 ## Paypal: Use Paypal as a payment getway
 ## Cashless: Pay with barcode or from app/web wallet
-
+## Firebase: Realtime chat applications and integration in React|React Native
 
 
 <a href="https://mobile.twitter.com/zainahmed241995">
