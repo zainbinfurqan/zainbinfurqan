@@ -11,6 +11,11 @@
 ## Firebase: Realtime chat applications and integration in React|React Native
 
 ### I also create/write  content/blogs/articles on different platforms like 
+- Mediume
+- Youtube
+- Dev.to
+- Facebook
+- Instagram
 
 
 <a href="https://mobile.twitter.com/zainahmed241995">
