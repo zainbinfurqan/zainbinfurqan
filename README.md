@@ -9,7 +9,7 @@
 | React Native, Node.js |Create mobile application in React native to scan code of any product and purchase it throught InApp wallet or/and online card, also can add money to InApp wallet.  |
 | React Native, Agora-IO | Create a mobile live calling 1 to 1 room feature  using React Native & Agora-IO |
 
-### Hight Volume Article on Medium/Dev.to
+### High Volume Article on Medium/Dev.to
 >  [What is ETag and why we use it](https://dev.to/zainbinfurqan/what-is-etag-and-why-we-use-it-15jd)
 >  [Agora.io with React.js (Configuration/Demo)](https://dev.to/zainbinfurqan/agora-io-with-react-js-configuration-demo-2o7h)
 >  [Make Image Loading (React Native)](https://zain-ahmed-5360.medium.com/make-image-loading-react-native-8929a744d242)
